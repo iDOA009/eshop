@@ -7,4 +7,4 @@ This is the project for the eCommerce.
 - Skype     live:.cid.997e8d7067750a0f
 - Mobile  	+12623586007
 - Discord   jamescross_40754
-# !!!Please get in touch with me to discuss the project!!!
+# !!!Please get in touch with the above contact if you show this repo readme!!!
